@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+  android:id="@+id/navigation_awal"
+    android:title="Home"
+    android:icon="@drawable/ic_home"
+    >
+
+</item>
+
+    <item
+        android:id="@+id/navigation_pesanan"
+        android:title="Pesanan"
+        android:icon="@drawable/ic_pesanan"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/navigation_inbox"
+        android:title="Inbox"
+        android:icon="@drawable/ic_inbox"
+        >
+
+    </item>
+    <item
+        android:id="@+id/navigation_akun"
+        android:title="Akun"
+        android:icon="@drawable/ic_akun"
+        >
+
+    </item>
+</menu>
